@@ -60,9 +60,8 @@ Kali Linux • Nmap • Burp Suite • Metasploit
 
 <tr>
 <td width="50%" align="center">
-<h3>🌐 Technologies</h3>
-HTML • CSS • JavaScript • Python  
-<img src = "https://skillicons.dev/icons?i=html,css "/>
+<h3>🌐 Technologies</h3> 
+<img src = "https://skillicons.dev/icons?i=html,css,python "/>
 <br/><br/>
 </td>
 
