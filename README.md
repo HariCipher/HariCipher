@@ -21,9 +21,6 @@
   </p>
 <h3>🌐 Socials</h3>
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 <a href="https://discord.com/users/midhun_n">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
@@ -39,39 +36,39 @@
 <a href="https://x.com/mike_devlogs">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
 
-🛠️ Skills
+<h3>🛠️ Skills</h3>
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<h3>💻 Core Skills</h3>
+Penetration Testing • Vulnerability Assessment • Web Security  
 <br/><br/>
-</td>
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
 </td>
 
+<td width="50%" align="center">
+<h3>🧰 Tools</h3>
+Kali Linux • Nmap • Burp Suite • Metasploit  
+</td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<h3>🌐 Technologies</h3>
+HTML • CSS • JavaScript • Python  
 <br/><br/>
 </td>
+
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+<h3>🧪 Labs & Practice</h3>
+DVWA • Metasploitable2 • OWASP Juice Shop  
 </td>
 </tr>
 </table>
