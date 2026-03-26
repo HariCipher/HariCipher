@@ -1,7 +1,7 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Harilal P</strong>
 </h1>
 <h3>Aspiring SOC Analyst | Trained at Gardiyan SST | SIEM · Log Analysis · Threat Detection </h3>
 <div align="left">
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:thisisharilal@gmail.com"><img src="https://img.shields.io/badge/📧_thisisharilal@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Blue Team)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 <h3>🌐 Socials</h3>
 <p align="left">
