@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white](https://www.instagram.com/h_.a_ri?igsh=MTF6bmdscXM0emY2Zw==)" />
   </a>
 <a href="https://linkedin.com/in/midhun-nk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
