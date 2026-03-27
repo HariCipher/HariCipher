@@ -20,16 +20,16 @@
   </p>
 <h3>🌐 Socials</h3>
 <p align="left">
-<a href="https://discord.com/users/midhun_n">
+<a href="https://discord.com/users/oreganoXD">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://github.com/Midhun-Nk">
+<a href="https://github.com/HariCipher">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/instagram-MTF6bmdscXM0emY2Zw==?style=for-the-badge&logoColor=white" />
+<a href="https://instagram.com/h_.a_ri">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logoColor=white" />
   </a>
-<a href="https://linkedin.com/in/midhun-nk">
+<a href="https://linkedin.com/in/Harilal P">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 <a href="https://x.com/mike_devlogs">
