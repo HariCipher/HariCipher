@@ -64,7 +64,7 @@ Kali Linux • Nmap • Burp Suite • Metasploit
 
 <td width="50%" align="center">
 <h3>🧪 Labs & Practice</h3>
-DVWA • Metasploitable2 • OWASP Juice Shop  
+DVWA • Metasploitable2 • OWASP Juice Shop • Splunk
 </td>
 </tr>
 </table>
