@@ -11,7 +11,7 @@
   I like understanding how systems break, how vulnerabilities are exploited, and how to secure them.
   </p>
 <p>
-   Currently working on my own cybersecurity lab using tools like Kali Linux, DVWA, Metasploitable2, and OWASP Juice Shop for offensive Security and Siem tools like Splunk, Wazuh for Deffensive Security.  
+   Currently working on my own cybersecurity lab using tools like Kali Linux, DVWA, Metasploitable2, and OWASP Juice Shop for offensive Security and Siem tools like Splunk, Wazuh for Defensive Security.  
   I enjoy testing, analyzing, and improving systems step by step.
 <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
