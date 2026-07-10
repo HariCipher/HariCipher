@@ -1,19 +1,24 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Harilal</strong>
+ Hi, I'm <strong>Harilal</strong>
 </h1>
-<h3>Aspiring SOC Analyst | Trained at Gardiyan SST | SIEM · Log Analysis · Threat Detection </h3>
+<h3>Aspiring SOC Analyst | Blue Teamer | Threat Detection · SIEM · Incident Response</h3>
+
 <div align="left">
-  <img align="right" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="180" alt="Hacker at work" />
+  <img align="right" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Cybersecurity" />
+
 <p>
-    I’m focused on building real-world cybersecurity skills through hands-on practice and continuous learning.  
-  I like understanding how systems break, how vulnerabilities are exploited, and how to secure them.
-  </p>
+I'm a cybersecurity student focused on Blue Team operations, detection engineering, and incident response. I enjoy investigating security events, analyzing malware traffic, writing detection logic, and understanding how attacks work from both offensive and defensive perspectives.
+</p>
+
 <p>
-   Currently working on my own cybersecurity lab using tools like Kali Linux, DVWA, Metasploitable2, and OWASP Juice Shop for offensive Security and Siem tools like Splunk, Wazuh for Defensive Security.  
-  I enjoy testing, analyzing, and improving systems step by step.
+I've completed hands-on work with Splunk, Wazuh, Microsoft Entra ID, HTB Academy, Hack The Box machines, and PortSwigger Web Security Academy. I also build technical documentation, perform malware PCAP analysis, and develop small security tools and labs to strengthen practical skills.
+</p>
+
 <p>
+Currently expanding my knowledge in Windows security, Active Directory, Microsoft Sentinel/KQL, web application security, and detection engineering while continuously building projects and documenting everything I learn.
+</p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:thisisharilal@gmail.com"><img src="https://img.shields.io/badge/📧_thisisharilal@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Blue Team)-1e1e2e?style=for-the-badge" />
