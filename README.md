@@ -1,21 +1,9 @@
 <div align="center">
 
-<h1>Hi, I'm <strong>Harilal</strong></h1>
-<h3>SOC Analyst Intern | Detection Engineering | Threat Detection · SIEM · Incident Response</h3>
-
-<img align="right" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Cybersecurity" />
-
-<p>
-I'm a cybersecurity student focused on Blue Team operations, detection engineering, and incident response. I enjoy investigating security events, analyzing malware traffic, writing detection logic, and understanding how attacks work from both offensive and defensive perspectives.
-</p>
-
-<p>
-I've completed hands-on work with Splunk, Wazuh, Microsoft Entra ID, HTB Academy, Hack The Box machines, and PortSwigger Web Security Academy. I also build technical documentation, perform malware PCAP analysis, and develop small security tools and labs to strengthen practical skills.
-</p>
-
-<p>
-Currently expanding my knowledge in Windows security, Active Directory, Microsoft Sentinel/KQL, web application security, and detection engineering while continuously building projects and documenting everything I learn.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Harilal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOC%20·%20Incident%20Response%20·%20Blue%20Team&descAlignY=60&descSize=16&descColor=7d8590" width="100%"/>
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOC+Analyst;Malware+Traffic+Analysis;SIEM+%7C+Threat+Hunting+%7C+IR;Blue+Teamer" alt="Typing SVG" /></a>
 
 </div>
 </p><div align="center">
@@ -26,8 +14,6 @@ Currently expanding my knowledge in Windows security, Active Directory, Microsof
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-
 <br>
 <br>
 
@@ -43,7 +29,7 @@ Currently expanding my knowledge in Windows security, Active Directory, Microsof
 <br>
 <br>
 
-<h3><code>hari@github ~ $ ./links.sh</code></h3>
+<h3><code>hari@github ~ $ links</code></h3>
 
 <p><b>Aspiring SOC Analyst · DFIR · Blue Teamer</b></p>
 
