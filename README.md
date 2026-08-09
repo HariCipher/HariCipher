@@ -2,6 +2,7 @@
   Symbiote-black / crimson Spider-Man theme.
 
   Regenerate the art assets:
+    python3 scripts/make_banner.py         -> web-banner.svg    (header: webbing, name, symbiote drip)
     python3 scripts/make_spider_svg.py    -> spider-ascii.svg  (ASCII spider, web-weave animation)
     python3 scripts/make_info_card.py     -> info-card.svg     (neofetch panel)
     python3 scripts/make_divider.py       -> web-divider.svg   (section rule)
@@ -11,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a060a,100:0a0a0a&height=200&section=header&text=HariCipher&fontSize=58&fontColor=EDEDED&animation=fadeIn&fontAlignY=38&desc=SOC%20·%20DFIR%20·%20Detection%20Engineering&descAlignY=60&descSize=16&descColor=E62429" width="100%"/>
+<img src="./web-banner.svg" width="100%" alt="HariCipher — SOC · DFIR · Detection Engineering" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=E62429&center=true&vCenter=true&width=640&lines=friendly+neighbourhood+SOC+analyst;with+great+logs+comes+great+responsibility;SIEM+%7C+Threat+Hunting+%7C+Detection+Engineering;my+spider-sense+pinged+on+event+4104" alt="Typing SVG" /></a>
 
