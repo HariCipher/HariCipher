@@ -128,7 +128,7 @@ detections nobody else wanted to tune, and learning that the alert everybody ign
 
 <h3><code>HariCipher@web ~ $ ls threads/</code></h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=EDEDED&labelColor=0a0a0a)](https://HariCipher.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-E62429?style=for-the-badge&labelColor=0a0a0a)](https://www.linkedin.com/in/thisisharilal) [![Email](https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=EDEDED&labelColor=0a0a0a)](mailto:thisisharilal@gmail.com) [![Discord](https://img.shields.io/badge/Discord-E62429?style=for-the-badge&logo=discord&logoColor=EDEDED&labelColor=0a0a0a)](https://discord.com/channels/@me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=EDEDED&labelColor=0a0a0a)](https://HariCipher.github.io)  [![Email](https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=EDEDED&labelColor=0a0a0a)](mailto:thisisharilal@gmail.com) [![Discord](https://img.shields.io/badge/Discord-E62429?style=for-the-badge&logo=discord&logoColor=EDEDED&labelColor=0a0a0a)](https://discord.com/channels/@me)
 
 <img src="./web-divider.svg" width="100%" alt="" />
 
