@@ -118,8 +118,6 @@ detections nobody else wanted to tune, and learning that the alert everybody ign
 </tr>
 </table>
 
-<sub><b>Currently hunting:</b> a cybersecurity internship in SOC, DFIR, or detection engineering.</sub>
-
 <img src="./web-divider.svg" width="100%" alt="" />
 
 <h3><code>HariCipher@web ~ $ ls threads/</code></h3>
