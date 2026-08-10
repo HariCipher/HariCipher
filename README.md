@@ -105,12 +105,8 @@ detections nobody else wanted to tune, and learning that the alert everybody ign
 
 <table>
 <tr>
-<td><b>SOC Analyst Intern</b><br/><sub>Gardiyan System Security Technologies · Turkey (remote)</sub></td>
+<td><b>SOC Analyst Training</b><br/><sub>Gardiyan System Security Technologies · Turkey (remote)</sub></td>
 <td align="right"><sub>Sep 2025 – Jan 2026</sub></td>
-</tr>
-<tr>
-<td><b>SOC Analyst Training</b> — 4 months<br/><sub>Gardiyan System Security Technologies</sub></td>
-<td align="right"><sub>Jan 2026</sub></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/TryHackMe-0a0a0a?style=flat-square&logo=tryhackme&logoColor=E62429&labelColor=0a0a0a" alt="TryHackMe"/> <b>Hackfinity Battle CTF</b><br/><sub>Rank 265 · 600 pts</sub></td>
