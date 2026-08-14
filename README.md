@@ -11,7 +11,6 @@
 -->
 
 <div align="center">
-
 <img src="./web-banner.svg" width="100%" alt="HariCipher — SOC · DFIR · Detection Engineering" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=E62429&center=true&vCenter=true&width=640&lines=friendly+neighbourhood+SOC+analyst;with+great+power+comes+great+responsibility;SIEM+%7C+Threat+Hunting+%7C+Detection+Engineering;my+spider-sense+pinged+on+event+4104" alt="Typing SVG" /></a>
